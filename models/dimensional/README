@@ -1,0 +1,7 @@
+The stack I am going to attempt is:
+
+* ICE
+* ActiveWarehouse
+* Rails
+
+ICE is supposed to be faster than MySQL, but it means I do other kinds of loads than ActiveWarehouse-ETL will have.

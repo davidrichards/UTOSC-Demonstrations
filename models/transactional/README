@@ -1,0 +1,1 @@
+Using a straight ActiveRecord model here.  Using it inside of Rails so that I can build basic scaffolding to show the data.

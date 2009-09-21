@@ -1,0 +1,12 @@
+This system brings together the transportation data I will use to demonstrate the code:
+
+* UTA routes
+* UTA stations/stops
+* UTA rates
+
+There should be more, this is a good start.
+
+The data goes first into the transactional models.  Other ETL also needs to convert from transactional to:
+
+* dimensional
+* semantic
