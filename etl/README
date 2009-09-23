@@ -11,3 +11,8 @@ The data goes first into the transactional models.  Other ETL also needs to conv
 
 * dimensional
 * semantic
+
+ISSUES
+
+I'm having a hard time getting the data out of the system.  I'm using scrubyt, which is a bit of a learning curve.  It's an interesting approach, but it doesn't have a whole lot of traction.  In the years that it's been around, there hasn't been a whole lot written about it.
+

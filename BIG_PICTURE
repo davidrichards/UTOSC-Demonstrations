@@ -1,0 +1,60 @@
+Modeling
+
+* ETL routes and stories
+* ETL rates
+* Protege overlay to relational data
+* ETL dates and events
+* Overlay to GIS
+* Semantic relation of all things
+* ETL population and demographic shifts
+
+Decision Support
+
+* What route and carrier to use?
+* Given an exception, is there a disruption?
+* Where to invest capital projects
+* Demand forecasting
+
+Customer Reputation
+
+* Correlation of riders
+** if you can do x, you may also be able to do y
+** constraints: handicaps, destinations, stability of commute, accessibility of routes, accessibility of alternatives, likelihood of having an alternative (replacement car from insurance or a dealer)
+** car pooling opportunities
+
+Belief Maintenance
+
+* State all of the above in a Bayesian network
+* ETL to update beliefs
+* Reporting when beliefs change
+* PR Opportunities
+* Query the network
+
+Modes
+
+* Plane (?)
+* Train
+* Car
+** Taxi
+** Rental
+** Ride
+* Bike
+* Bus
+* Light Rail
+
+Exceptions
+
+* Construction
+* Traffic
+* Accident/incident
+* Weather
+* Event
+
+Building or Zone
+
+* Residence
+* Office
+* Retail
+* Industrial
+* Under Construction
+
