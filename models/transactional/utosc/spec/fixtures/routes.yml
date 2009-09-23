@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  day_list: MyString
+  direction: MyString
+  mode_id: 1
+  region_id: 1
+
+two:
+  name: MyString
+  day_list: MyString
+  direction: MyString
+  mode_id: 1
+  region_id: 1
