@@ -1,3 +1,4 @@
+==Overview
 This system brings together the transportation data I will use to demonstrate the code:
 
 * UTA routes
@@ -12,7 +13,25 @@ The data goes first into the transactional models.  Other ETL also needs to conv
 * dimensional
 * semantic
 
-ISSUES
+==ISSUES
 
 I'm having a hard time getting the data out of the system.  I'm using scrubyt, which is a bit of a learning curve.  It's an interesting approach, but it doesn't have a whole lot of traction.  In the years that it's been around, there hasn't been a whole lot written about it.
+
+I found scrapi which is a simpler approach:
+
+require 'rubygems'
+require 'scrapi'
+
+scraper = Scraper.define do
+	process "title", :page_name => :text
+	result :page_name
+end
+
+uri = URI.parse('')
+
+p scraper.scrape(uri)
+
+There is more on scrapi here: http://railscasts.com/episodes/173-screen-scraping-with-scrapi
+
+I also found Firequark, which gives me good CSS Selectors.
 
