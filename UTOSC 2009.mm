@@ -158,6 +158,9 @@
 <node COLOR="#00b439" CREATED="1252083361374" ID="Freemind_Link_943064372" LINK="http://hunch.net/?p=230" MODIFIED="1252083828894" TEXT="discussion on tools">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
+<node COLOR="#00b439" CREATED="1253898083607" ID="Freemind_Link_1757414528" LINK="http://www.shirky.com/writings/ontology_overrated.html" MODIFIED="1253898098285" TEXT="Ontology  -- against">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node COLOR="#0033ff" CREATED="1252090453073" ID="Freemind_Link_1561755855" MODIFIED="1252090454126" POSITION="right" TEXT="Quotes">
 <font NAME="SansSerif" SIZE="18"/>
@@ -195,6 +198,9 @@
 </node>
 </node>
 <node COLOR="#00b439" CREATED="1253714481534" ID="Freemind_Link_259802349" MODIFIED="1253714481535" TEXT="Pablo Picasso - &quot;Computers are useless. They can only give you answers.&quot;">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1253898073140" ID="Freemind_Link_781433946" MODIFIED="1253898073146" TEXT="William Osler - &quot;We are here to add what we can to life, not to get what we can from life.&quot;">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
