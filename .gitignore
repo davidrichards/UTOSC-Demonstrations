@@ -3,3 +3,5 @@
 db/*sql
 noodle*
 tmp_*
+*.data
+*.test
