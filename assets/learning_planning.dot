@@ -1,0 +1,7 @@
+digraph learning_planning
+	{
+	  "Value/Policy" -> Experience [label=acting];
+	  Experience -> Model [label="model learning"];
+	  Model -> "Value/Policy" [label="planning"];
+	  Experience -> "Value/Policy" [label="direct\n reinforcement learning"];
+  }
